@@ -3,7 +3,7 @@
 
 
 ## セットアップ手順
-  − Tampermonkeyのインストール
-    - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja からインストール
-  − UserScriptの追加
-    − コピペするだけでOK
+  − Tampermonkeyのインストール <br>
+    　https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja からインストール
+  − UserScriptの追加<br>
+    　コピペするだけでOK
